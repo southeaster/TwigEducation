@@ -1,0 +1,11 @@
+{
+  "name": "twigeducation",
+  "version": "1.0.0",
+  "description": "Twig Education Coding Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "FC Du Toit",
+  "license": "ISC"
+}
